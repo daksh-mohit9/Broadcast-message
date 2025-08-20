@@ -118,7 +118,7 @@ HTML = """
                   <textarea class="form-control" name="msg" rows="3" required></textarea>
                 </div>
                 <div class="form-check mb-2">
-                  <input class="form-check-input" type="checkbox" value="1" id="broadcast" name="broadcast" checked>
+                  <input class="form-check-input" type="checkbox" value="1" id="broadcast" name="broadcast">
                   <label class="form-check-label" for="broadcast">Broadcast to all</label>
                 </div>
                 <div class="mb-3">
